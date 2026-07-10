@@ -75,7 +75,7 @@ function IndexPopup() {
           alignItems: "center"
         }}>
         <span style={{ color: "#ffa116", marginRight: "8px", fontSize: "18px", fontWeight: "bold" }}>|</span>
-        LeetCode Assistant
+        FreshCode Assistant
       </h2>
 
       <div style={{ height: "1px", backgroundColor: "#424242", marginBottom: "16px" }} />

@@ -25,7 +25,8 @@
   },
   "manifest": {
     "host_permissions": [
-      "https://*/*"
+      "https://leetcode.com/*",
+      "https://leetcode.cn/*"
     ],
     "permissions": [
       "storage",
